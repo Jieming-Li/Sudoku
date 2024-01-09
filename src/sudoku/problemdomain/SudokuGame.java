@@ -1,5 +1,6 @@
 package sudoku.problemdomain;
 
+import sudoku.computationlogic.SudokuUtilities;
 import sudoku.constants.GameState;
 
 import java.io.Serializable;//read and write this particular game data file to a file on the operating system easier
